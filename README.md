@@ -40,7 +40,7 @@ php artisan migrate
 
 Jalankan server lokal:
 
-    php artisan serve
+    (php artisan serve) Untuk menjalankannya
 
     Akses aplikasi di http://127.0.0.1:8000
 
